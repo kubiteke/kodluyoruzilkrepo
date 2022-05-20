@@ -1,7 +1,7 @@
 Ödev içerisinde yer alan "Markdown dosyanızın içine projemizin bir resmini koyun." kısmını tam
 anlamadım. Resim olarak "New Repository" kısmının ekran görüntüsünden bir link oluşturdum ve 
 
-https://ibb.co/xY1NrZs
+https://imgyukle.com/f/2022/05/20/RbCHCs.jpg
 
 adresli resmi ekledim.
 
