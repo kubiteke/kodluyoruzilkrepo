@@ -1,7 +1,7 @@
 Ödev içerisinde yer alan "Markdown dosyanızın içine projemizin bir resmini koyun." kısmını tam
-anlamadım. Resim olarak ÖDEV-1 içerisindeki resmi yeni sekmede açıp
+anlamadım. Resim olarak "New Repository" kısmının ekran görüntüsünden bir link oluşturdum ve 
 
-https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png
+https://ibb.co/xY1NrZs
 
 adresli resmi ekledim.
 
